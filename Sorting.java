@@ -331,7 +331,7 @@ public class Sorting {
     //---------------------------------------------
     public static void main(String[] args) {
         // Flag to test with an already sorted array (corner case)
-        boolean useOrderedArray = false;
+        boolean useOrderedArray = true;
 
         // Algorithm indices for reference
         final int BUBBLE = 0, BUBBLEOPT = 1, SELECT = 2, INSERT = 3, QUICK = 4,
