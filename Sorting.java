@@ -2,6 +2,13 @@ import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Random;
 
+
+/*
+THIS CODE WAS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
+CODE WRITTEN BY OTHER STUDENTS OR COPIED FROM ONLINE RESOURCES. Philip Cardozo
+*/
+
+
 public class Sorting {
 
     //-------------------------------------------------------------
