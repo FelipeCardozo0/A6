@@ -1,5 +1,11 @@
 import java.util.NoSuchElementException;
 
+/*
+THIS CODE WAS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
+CODE WRITTEN BY OTHER STUDENTS OR COPIED FROM ONLINE RESOURCES. Philip Cardozo
+*/
+
+
 public class MyLinkedList {
     /*******************************************************/
     class Node {
